@@ -96,10 +96,12 @@ endmodule
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
 ## UP COUNTER
-![model](1.png)
+![1](https://github.com/Sriram8452/Exp-7-Synchornous-counters-/assets/118708032/987f6363-18f9-42a5-b52d-509d2ffe5840)
+
 
 ## DOWN COUNTER
-![model](2.png)
+![2](https://github.com/Sriram8452/Exp-7-Synchornous-counters-/assets/118708032/7a791219-187b-4e93-b1b9-77714442219d)
+
 
 
 
@@ -109,20 +111,24 @@ endmodule
 
 ### TIMING DIGRAMS FOR COUNTER  
 ## UP COUNTER
-![model](8.png)
+![8](https://github.com/Sriram8452/Exp-7-Synchornous-counters-/assets/118708032/2f30fb97-9ea5-4ee0-b935-cbfe8ea59305)
+
 
 ## DOWN COUNTER
-![model](1.jpg)
+![1](https://github.com/Sriram8452/Exp-7-Synchornous-counters-/assets/118708032/202aef3a-61a9-4ed1-87f3-4a9738619f9e)
+
 
 
 
 
 ### TRUTH TABLE 
 ## UP COUNTER
-![model](4.png)
+![4](https://github.com/Sriram8452/Exp-7-Synchornous-counters-/assets/118708032/9b351b14-c3b7-4149-baf8-88f858c4ff4c)
+
 
 ## DOWN COUNTER
-![model](3.png)
+![3](https://github.com/Sriram8452/Exp-7-Synchornous-counters-/assets/118708032/3ae8426f-c288-4fe7-9b09-0b6845c2f45c)
+
 
 
 
