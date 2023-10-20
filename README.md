@@ -48,12 +48,12 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 4-bit Count Down Counter
 ### Procedure
 
-1.Set the input as clock.
-2.Register the output of 4 bit.
-3.Use Posedge on the input clock.
-4.For Up counter use AND and OR gates to declare the value of each bit.
-5.For Down counter use AND, OR and NOT gates to declare the value of each bit.
-6.End the module.
+## 1.Set the input as clock.
+## 2.Register the output of 4 bit.
+## 3.Use Posedge on the input clock.
+## 4.For Up counter use AND and OR gates to declare the value of each bit.
+## 5.For Down counter use AND, OR and NOT gates to declare the value of each bit.
+## 6.End the module.
 
 
 
